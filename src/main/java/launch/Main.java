@@ -7,6 +7,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
+    	/*
         String webappDirLocation = "WebContent/";
         Tomcat tomcat = new Tomcat();
 
@@ -23,6 +24,6 @@ public class Main {
         System.out.println("configuring app with basedir: " + new File("./" + webappDirLocation).getAbsolutePath());
 
         tomcat.start();
-        tomcat.getServer().await();
+        tomcat.getServer().await();*/
     }
 }
